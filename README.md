@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/mojaray2k/AmenRaReactReduxSimpleBookList.git
-> cd AmenRaReduxSimpleStarter
+> cd AmenRaReactReduxSimpleBookList
 > npm install
 > npm start
 ```
